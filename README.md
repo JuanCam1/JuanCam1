@@ -1,22 +1,50 @@
-### Hola, soy Juan Camilo Rojas Diaz 👋
-Desarrollador Web 
+<h1 align="center">Hola 👋, Soy <span style="color: #45B6B6">
+Juan Camilo</span></h1>
+<h3 align="center">Desarrollador Frontend</h3>
 
-#### Habilidades:
+<p>
+Soy un desarrollador frontend con experiencia práctica en la creación de software. Actualmente estoy cursando Ingeniería de Sistemas, donde estoy fortaleciendo mis habilidades técnicas y teóricas. Mi enfoque combina el aprendizaje en el aula con proyectos prácticos, lo que me permite aplicar mi conocimiento de manera efectiva.
 
-[![HTML5](https://img.shields.io/badge/-gray?logo=html5&label=HTML5&logoColor=white&labelColor=orange&color=orange)]()
-[![CSS3](https://img.shields.io/badge/-gray?logo=css3&label=CSS3&logoColor=white&labelColor=blue&color=blue)]()
-[![Javascript](https://img.shields.io/badge/-gray?logo=javascript&label=Javascript&color=yellow)]()
+Mi experiencia en el desarrollo de aplicaciones web, he utilizado tecnologías como HTML5, CSS3 y JavaScript para crear interfaces de usuario atractivas y funcionales. Además, tengo experiencia en el uso de frameworks como React y React Native para desarrollar aplicaciones web y móviles.
 
-[![react](https://img.shields.io/badge/-gray?logo=React&label=React&logoColor=white&labelColor=blue&color=blue)]()
+</p>
 
-[![MySQL](https://img.shields.io/badge/-gray?logo=mysql&label=MySQL&logoColor=white&labelColor=rgb(54%2097%20129)&color=rgb(54%2097%20129))]()
+<br/>
 
-[![Git](https://img.shields.io/badge/-gray?logo=git&label=Git&logoColor=white&labelColor=red&color=red)]()
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
+- 🔭 Actualmente curso el decimo semestre de Ingeniería de Sistemas.
 
-#### Contacto:
+- 🌱 Enfocado en el desarrollo de aplicaciones utilizando React y TypeScript.
 
-[![Linkedin](https://img.shields.io/badge/-gray?logo=linkedin&label=Perfil%20de%20Linkedin&logoColor=white&labelColor=rgb(10%20102%20194)&color=rgb(10%20102%20194))](www.linkedin.com/in/juan-camilo-rojas-díaz-a42384231)
+- 🤝 Actualmente estoy ampliando mis habilidades en el desarrollo Backend NodeJs.
 
-[![Linkedin](https://img.shields.io/badge/-gray?logo=gmail&label=Enviar%20correo&logoColor=white&labelColor=rgb(221%2078%2062)&color=rgb(221%2078%2062))](mailto:juancamilor576@gmail.com)
+- 🔭 Constantemente me mantengo al tanto de las últimas tecnologías y estoy siempre receptivo a aprender de los demás.
+
+- 🌱 Soy un aprendiz ágil y los retos no me intimidan, sino que los considero oportunidades para crecer.
+
+- 🤝 Actualmente estoy ampliando mis habilidades en el desarrollo Backend NodeJs.
+
+- 🔭 Abierto a la oportunidades de demostrar mis conocimientos.
+
+- 🌱 Mi naturaleza proactiva y creativa me impulsa a buscar soluciones innovadoras en equipo.
+
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacto 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/
+juan-camilo-rojas-díaz-a42384231
+">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/JuanCam1">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://x.com/juancamilor576?t=W7lAkZiXasRkyiRMp_a26Q&s=09">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		</div>
+</p>
 
