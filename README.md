@@ -19,13 +19,12 @@ Mi experiencia en el desarrollo de aplicaciones web, he utilizado tecnologías c
 
 - 🤝 Actualmente estoy ampliando mis habilidades en el desarrollo Backend NodeJs.
 
-- 🔭 Constantemente me mantengo al tanto de las últimas tecnologías y estoy siempre receptivo a aprender de los demás.
+- 🌱 Mi naturaleza proactiva y creativa me impulsa a buscar soluciones innovadoras en equipo.
 
 - 🌱 Soy un aprendiz ágil y los retos no me intimidan, sino que los considero oportunidades para crecer.
 
 - 🤝 Actualmente estoy ampliando mis habilidades en el desarrollo Backend NodeJs.
 
-- 🌱 Mi naturaleza proactiva y creativa me impulsa a buscar soluciones innovadoras en equipo.
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacto 🤝 </h3>
