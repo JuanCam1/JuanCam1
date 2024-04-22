@@ -15,8 +15,6 @@ Mi experiencia en el desarrollo de aplicaciones web, he utilizado tecnologías c
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Actualmente curso el decimo semestre de Ingeniería de Sistemas.
-
 - 🌱 Enfocado en el desarrollo de aplicaciones utilizando React y TypeScript.
 
 - 🤝 Actualmente estoy ampliando mis habilidades en el desarrollo Backend NodeJs.
@@ -26,8 +24,6 @@ Mi experiencia en el desarrollo de aplicaciones web, he utilizado tecnologías c
 - 🌱 Soy un aprendiz ágil y los retos no me intimidan, sino que los considero oportunidades para crecer.
 
 - 🤝 Actualmente estoy ampliando mis habilidades en el desarrollo Backend NodeJs.
-
-- 🔭 Abierto a la oportunidades de demostrar mis conocimientos.
 
 - 🌱 Mi naturaleza proactiva y creativa me impulsa a buscar soluciones innovadoras en equipo.
 
