@@ -5,7 +5,7 @@ Juan Camilo</span></h1>
 <p>
 Soy un desarrollador frontend con experiencia práctica en la creación de software. Actualmente estoy cursando Ingeniería de Sistemas, donde fortalezco mis habilidades técnicas y teóricas. Mi enfoque combina el aprendizaje en el aula con proyectos prácticos, lo que me permite aplicar mi conocimiento de manera efectiva.
 
-Mi experiencia en el desarrollo de aplicaciones web, he utilizado tecnologías como HTML5, CSS3 y JavaScript para crear interfaces de usuario atractivas y funcionales. Además, tengo experiencia en el uso de frameworks como React y React Native para desarrollar aplicaciones web y móviles.
+Mi experiencia en el desarrollo de aplicaciones web, he utilizado tecnologías como HTML5, CSS3 y JavaScript para crear interfaces de usuario atractivas y funcionales. Además, tengo experiencia en el uso de frameworks como React TypeScript y Express para desarrollar aplicaciones web.
 
 </p>
 
