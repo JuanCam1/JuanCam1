@@ -17,7 +17,7 @@ Mi experiencia en el desarrollo de aplicaciones web, he utilizado tecnologías c
 
 - 🚀 Enfocado en el desarrollo de aplicaciones utilizando React, Express y TypeScript.
 
--🤝 Me apasiona transformar ideas en aplicaciones funcionales, elegantes y fáciles de usar.
+- 🤝 Me apasiona transformar ideas en aplicaciones funcionales, elegantes y fáciles de usar.
 
 - 🌱 Mi naturaleza proactiva y creativa me impulsa a buscar soluciones innovadoras en equipo.
 
