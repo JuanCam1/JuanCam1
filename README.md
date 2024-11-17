@@ -15,16 +15,17 @@ Mi experiencia en el desarrollo de aplicaciones web, he utilizado tecnologías c
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 Enfocado en el desarrollo de aplicaciones utilizando React y TypeScript.
+- 🚀 Enfocado en el desarrollo de aplicaciones utilizando React, Express y TypeScript.
 
-- 🤝 Actualmente estoy ampliando mis habilidades en el desarrollo Backend NodeJs.
+-🤝 Me apasiona transformar ideas en aplicaciones funcionales, elegantes y fáciles de usar.
 
 - 🌱 Mi naturaleza proactiva y creativa me impulsa a buscar soluciones innovadoras en equipo.
 
-- 🌱 Soy un aprendiz ágil y los retos no me intimidan, sino que los considero oportunidades para crecer.
+- 🤝 Soy un aprendiz ágil y los retos no me intimidan, sino que los considero oportunidades para crecer.
 
-- 🤝 Actualmente estoy ampliando mis habilidades en el desarrollo Backend NodeJs.
+- 🚀 Siempre en busca de nuevos desafíos tecnológicos que me permitan expandir mis habilidades.
 
+- 🌱 Siempre dispuesto a afrontar retos técnicos y colaborar para entregar soluciones innovadoras.
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacto 🤝 </h3>
