@@ -34,7 +34,7 @@ Mi experiencia en el desarrollo de aplicaciones web, he utilizado tecnologías c
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/
-juan-camilo-rojas-díaz-a42384231
+juan-camilo-rojas-díaz
 ">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://bit.ly/4aOn24c">
