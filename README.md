@@ -38,8 +38,6 @@ juan-camilo-rojas-díaz
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://bit.ly/4aOn24c">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://x.com/juancamilor576?t=W7lAkZiXasRkyiRMp_a26Q&s=09">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		</div>
 </p>
 
