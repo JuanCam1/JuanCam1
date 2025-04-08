@@ -3,9 +3,9 @@ Juan Camilo</span></h1>
 <h3 align="center">Desarrollador Frontend</h3>
 
 <p>
-Soy un desarrollador frontend con experiencia práctica en la creación de software. Actualmente estoy cursando Ingeniería de Sistemas, donde fortalezco mis habilidades técnicas y teóricas. Mi enfoque combina el aprendizaje en el aula con proyectos prácticos, lo que me permite aplicar mi conocimiento de manera efectiva.
+Soy Ingeniero de Sistemas enfocado al desarrollador frontend con más de un año de experiencia en la creación de aplicaciones web. Mi formación combina una sólida base académica con proyectos prácticos, lo que me ha permitido aplicar mis conocimientos de manera efectiva en entornos reales.
 
-Mi experiencia en el desarrollo de aplicaciones web, he utilizado tecnologías como HTML5, CSS3 y JavaScript para crear interfaces de usuario atractivas y funcionales. Además, tengo experiencia en el uso de frameworks como React TypeScript y Express para desarrollar aplicaciones web.
+He trabajado en el desarrollo de interfaces modernas y funcionales utilizando tecnologías como HTML5, CSS3, JavaScript y frameworks como React con TypeScript. También tengo experiencia en el desarrollo del lado del servidor con Express, lo que me ha permitido participar en proyectos fullstack.
 
 </p>
 
@@ -19,13 +19,12 @@ Mi experiencia en el desarrollo de aplicaciones web, he utilizado tecnologías c
 
 - 🤝 Me apasiona transformar ideas en aplicaciones funcionales, elegantes y fáciles de usar.
 
-- 🌱 Mi naturaleza proactiva y creativa me impulsa a buscar soluciones innovadoras en equipo.
+- 🌱 Mi naturaleza proactiva y creativa me impulsa a buscar soluciones innovadoras.
 
 - 🤝 Soy un aprendiz ágil y los retos no me intimidan, sino que los considero oportunidades para crecer.
 
 - 🚀 Siempre en busca de nuevos desafíos tecnológicos que me permitan expandir mis habilidades.
 
-- 🌱 Siempre dispuesto a afrontar retos técnicos y colaborar para entregar soluciones innovadoras.
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacto 🤝 </h3>
