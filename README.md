@@ -36,7 +36,7 @@ He trabajado en el desarrollo de interfaces modernas y funcionales utilizando te
 juan-camilo-rojas-díaz
 ">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-       	 <a style="margin-left: 10px;" target="_blank" href="https://jazzy-bonbon-870478.netlify.app">
+       	 <a style="margin-left: 10px;" target="_blank" href="https://juancam1.netlify.app">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		</div>
 </p>
